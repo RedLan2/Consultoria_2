@@ -7,5 +7,7 @@ padding-bottom: 1rem;
 .processos li{
     list-style: none;
     text-align: center;
-    padding-bottom: 2%;
+}
+.processos p {
+    line-height: 4rem;
 }
